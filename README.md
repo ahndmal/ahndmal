@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&langs_count=8&theme=tokyonight)
 
 <!-- <div style="display:flex">
   <div>aa</div>
