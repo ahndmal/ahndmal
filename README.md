@@ -1,5 +1,5 @@
 ### Hi there :tea: :violin:
-
+<div id="to-add"></div>
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<script>
+  const toAdd = document.querySelector("#to-add");
+  let testText = "Hey there!";
+  toAdd.textContent = testText;
+  </script>
