@@ -1,6 +1,12 @@
 ### Hi there :tea: :violin:
-<div id="to-add"></div>
+
 <!--
+<div id="to-add"></div>
+<script>
+  const toAdd = document.querySelector("#to-add");
+  let testText = "Hey there!";
+  toAdd.textContent = testText;
+</script>
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,13 +20,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
-![https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social](https://github.com/AndriiMaliut
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
-<script>
-  const toAdd = document.querySelector("#to-add");
-  let testText = "Hey there!";
-  toAdd.textContent = testText;
-</script>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
+[![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&theme=tokyonight)
+
+<!-- <div style="display:flex">
+  <div>aa</div>
+  <div>bb</div>
+</div> -->
+
+
+
