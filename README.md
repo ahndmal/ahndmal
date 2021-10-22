@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
+![https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social](https://github.com/AndriiMaliut
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
 
 <script>
   const toAdd = document.querySelector("#to-add");
   let testText = "Hey there!";
   toAdd.textContent = testText;
-  </script>
+</script>
