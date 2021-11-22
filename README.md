@@ -1,5 +1,5 @@
 ### Hi there :tea: :violin:
-
+I love computer software related stuff and programming.
 <!--
 <div id="to-add"></div>
 <script>
@@ -26,11 +26,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&langs_count=8&theme=tokyonight)
-
-<!-- <div style="display:flex">
-  <div>aa</div>
-  <div>bb</div>
-</div> -->
 
 
 
