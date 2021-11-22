@@ -1,15 +1,7 @@
 ### Hi there :tea: :violin:
 I love computer software related stuff and programming.
 <!--
-<div id="to-add"></div>
-<script>
-  const toAdd = document.querySelector("#to-add");
-  let testText = "Hey there!";
-  toAdd.textContent = testText;
-</script>
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-<!--
 - 🔭 I’m currently working on ...
 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on ...
@@ -17,8 +9,8 @@ I love computer software related stuff and programming.
 - 💬 Ask me about ...
 -->
 
-* 📫 How to reach: skype: scutum363
-* 👱‍♂️ Pronouns: He/Him
+* 📫 How to reach: andymaliuta@gmail.com
+* 👱‍♂️ Pronouns: he/him
 * Twitter: https://twitter.com/andrii_maliuta
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
