@@ -1,5 +1,5 @@
 ### Hi there :tea: :violin:
-I love computer software related stuff and programming.
+
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
