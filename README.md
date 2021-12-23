@@ -11,6 +11,7 @@
 
 * 📫 How to reach: andymaliuta@gmail.com
 * 👱‍♂️ Pronouns: he/him
+* Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
 * Twitter: https://twitter.com/andrii_maliuta
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
