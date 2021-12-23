@@ -11,7 +11,7 @@
 
 * 📫 How to reach: andymaliuta@gmail.com
 * 👱‍♂️ Pronouns: he/him
-* LinkedIn - https://gitlab.com/AndriiMaliuta
+* LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
 * Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
 * Twitter: https://twitter.com/andrii_maliuta
 
