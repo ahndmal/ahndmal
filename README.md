@@ -13,6 +13,7 @@
 * 👱‍♂️ Pronouns: he/him
 * LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
 * Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
+* Linktree - https://linktr.ee/andmal
 * Twitter: https://twitter.com/andrii_maliuta
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
