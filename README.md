@@ -9,7 +9,7 @@ Managing custm tools for Atlassian products.
 - 💬 Ask me about ...
 -->
 
-* 📫 How to reach: andymaliuta@gmail.com
+* 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
 * LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
 * Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
