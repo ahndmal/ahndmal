@@ -1,5 +1,8 @@
-### Hi there :tea: :violin:
-Managing custom tools for Atlassian products. 
+### Hi there, I am Andrii :tea: :violin:
+
+* Managing custom tools for Atlassian products
+* Automating content migration for web wiki systems
+* Developing REST API and custom APIs for web
 
 ### 🛠 &nbsp;Tech Stack (Languages)
 
