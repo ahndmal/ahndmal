@@ -12,13 +12,15 @@ Managing custom tools for Atlassian products.
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-%232b47d6.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
 
-I'm also exploring such thinks like: \
+I'm also exploring such thinks like: 
 
 🔹 Golang \
 🔹 Python \
 🔹 Quarkus \
 🔹 Docker \
 🔹 React \
+🔹 Typescript \
+🔹 GraphQL 
 
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
