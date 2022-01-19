@@ -5,7 +5,7 @@ Managing custom tools for Atlassian products.
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Groovy](https://img.shields.io/badge/kotlin-%23E07276.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Groovy](https://img.shields.io/badge/groovy-%23E07276.svg?style=for-the-badge&logo=groovy&logoColor=white)
 
 ### 🛠 &nbsp;Frameworks
 
