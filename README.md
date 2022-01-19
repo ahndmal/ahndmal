@@ -17,10 +17,9 @@ I'm also exploring such thinks like:
 
 🔹 Golang \
 🔹 Python \
-🔹 Quarkus \
 🔹 Docker \
-🔹 React \
-🔹 Typescript \
+🔹 K8s \
+🔹 TypeScript \
 🔹 GraphQL 
 
 <!--
