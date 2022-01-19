@@ -1,17 +1,24 @@
 ### Hi there :tea: :violin:
 Managing custom tools for Atlassian products. 
 
-### 🛠 &nbsp;Tech Stack (mostly)
+### 🛠 &nbsp;Tech Stack (Languages)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Groovy](https://img.shields.io/badge/kotlin-%23E07276.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### 🛠 &nbsp;Frameworksk
+
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-
 I'm also exploring such thinks like: \
-🔹 Jakarta Specs \
+
+🔹 Golang \
+🔹 Python \
 🔹 Quarkus \
-🔹 
+🔹 Docker \
+🔹 React \
 
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
