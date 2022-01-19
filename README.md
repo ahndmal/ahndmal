@@ -7,10 +7,10 @@ Managing custom tools for Atlassian products.
 ![JavaScript](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Groovy](https://img.shields.io/badge/kotlin-%23E07276.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### 🛠 &nbsp;Frameworksk
+### 🛠 &nbsp;Frameworks
 
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-%232b47d6.svg?style=for-the-badge&logo=Quarkus&logoColor=white)
 
 I'm also exploring such thinks like: \
 
@@ -35,16 +35,16 @@ OLD:
 
 * 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
-* LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
-* Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
-* Linktree - https://linktr.ee/andmal
-* Twitter: https://twitter.com/andrii_maliuta
+* ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
+* ✨ Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
+* ✨ Linktree - https://linktr.ee/andmal
+* 💬 Twitter: https://twitter.com/andrii_maliuta
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
 [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta)
 
 
-## My GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/AndriiMaliuta">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
