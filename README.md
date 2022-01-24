@@ -1,5 +1,7 @@
-### Hi there, I am Andrii :tea: :violin:
+### Activities:
 
+* Web development
+* CLI tools
 * Managing custom tools for Atlassian products
 * Automating content migration for web wiki systems
 * Developing REST API and custom APIs for web
