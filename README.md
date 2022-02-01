@@ -2,7 +2,7 @@
 
 * Web development
 * CLI tools
-* Managing custom tools for Atlassian products
+* Managing custom tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
 * Developing REST API and custom APIs for web
 
