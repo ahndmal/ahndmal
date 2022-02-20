@@ -27,6 +27,7 @@ I'm also exploring such thinks like:
 🔹 TypeScript \
 🔹 GraphQL 
 
+
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
@@ -46,6 +47,7 @@ OLD:
 * ✨ Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
+* CodeWars: <a href="https://www.codewars.com/users/codeFun8" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/codeFun8/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/codeFun8/micro" style="max-width: 100%;"></a>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
 [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta)
