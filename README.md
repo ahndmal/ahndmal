@@ -20,12 +20,14 @@
 
 I'm also exploring such thinks like: 
 
+🔹 HTTP2 / gRPC / Reactive \
 🔹 Golang \
 🔹 Python \
+🔹 NodeJS \
 🔹 Docker \
 🔹 K8s \
 🔹 TypeScript \
-🔹 GraphQL 
+🔹 GraphQL
 
 
 <!--
