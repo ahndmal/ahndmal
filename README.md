@@ -46,6 +46,7 @@ OLD:
 * 👱‍♂️ Pronouns: he/him
 * ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
 * ✨ Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
+* ✨ Bitbucket - https://bitbucket.org/malandr/
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
 * CodeWars: <a href="https://www.codewars.com/users/codeFun8" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/codeFun8/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/codeFun8/micro" style="max-width: 100%;"></a>
