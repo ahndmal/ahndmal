@@ -1,5 +1,7 @@
 ### Activities:
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Ukraine_%28pantone_colors%29.svg/255px-Flag_of_Ukraine_%28pantone_colors%29.svg.png" alt="ua_flag">
+
 * Web development
 * CLI tools
 * Managing tools for Atlassian Confluence + JIRA
