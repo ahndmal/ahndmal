@@ -1,6 +1,6 @@
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Ukraine_%28pantone_colors%29.svg/255px-Flag_of_Ukraine_%28pantone_colors%29.svg.png" alt="ua_flag"> -->
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg" alt="flag">
+<img width="60%" height="60%" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg" alt="flag">
 ### Activities:
 
 * Web development
