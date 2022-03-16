@@ -23,14 +23,19 @@
 
 I'm also exploring such thinks like: 
 
-🔹 HTTP2 / gRPC / Reactive \
-🔹 Golang \
-🔹 Python \
-🔹 NodeJS \
-🔹TypeScript \
-🔹 Docker \
-🔹 K8s \
-🔹 GraphQL
+- Network:
+  - HTTP2
+  - gRPC
+  - Reactive
+- Golang
+- NodeJS / NPM/ JS Builders
+- TypeScript
+- Cloud:
+  - Docker
+  - K8s
+  - OpenShift
+  - Terraform
+  - GCloud / AWS / Azure
 
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
