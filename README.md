@@ -32,10 +32,11 @@ I'm also exploring such thinks like:
 - TypeScript
 - Cloud:
   - Docker
-  - K8s
+  - K8s / KNative
   - OpenShift
   - Terraform
   - GCloud / AWS / Azure
+- Unix OS
 
 <!--
 **AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
