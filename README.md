@@ -51,6 +51,8 @@ OLD:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&langs_count=8&theme=tokyonight)
 -->
 
+## Contacts
+
 * 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
 * ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
