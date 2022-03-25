@@ -30,12 +30,12 @@ I'm also exploring such thinks like:
   - Reactive
 - Golang
 - NodeJS / NPM/ JS Builders
-- TypeScript
+- Paketo / Buildah / Jib
 - Cloud:
-  - Docker
+  - Docker / Podman
   - K8s / KNative
   - OpenShift
-  - Terraform
+  - Terraform / Vault / Consul
   - GCloud / AWS / Azure
 - Unix OS
 
