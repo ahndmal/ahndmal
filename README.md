@@ -10,7 +10,6 @@
 * CLI tools
 * Managing tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
-* Developing REST API and custom APIs for web
 
 ### 🛠 &nbsp;Tech Stack (Languages)
 
@@ -67,7 +66,7 @@ OLD:
 
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
-[![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta)
+<!-- [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta) -->
 
 
 ## GitHub Stats
