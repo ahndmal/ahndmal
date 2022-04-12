@@ -65,12 +65,12 @@ OLD:
 * CodeWars: <a href="https://www.codewars.com/users/codeFun8" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/codeFun8/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/codeFun8/micro" style="max-width: 100%;"></a>
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge) -->
 <!-- [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta) -->
 
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 <a href="https://github.com/AndriiMaliuta">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="My github stats"/> -->
 
