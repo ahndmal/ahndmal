@@ -2,7 +2,11 @@
 
 <img width="60%" height="60%" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg" alt="flag">
 
-<img width="20%" height="20%" src="https://user-images.githubusercontent.com/36703491/163026535-adbd88b5-f541-4843-86b8-5ba80fb4ad00.png" alt="cozack_go">
+<div style="display:flex;flex-direction:row">
+  <img width="20%" height="20%" src="https://user-images.githubusercontent.com/36703491/163026535-adbd88b5-f541-4843-86b8-5ba80fb4ad00.png" alt="cozack_go">
+<img width="16%" height="16%" src="https://user-images.githubusercontent.com/36703491/163550893-36d9ed4a-f05e-4cc3-8a7e-321d0eddbf20.png" alt="cozack_go">
+  </div>
+
 
 ### Activities:
 つ ◕_◕༽つ   (´❛ᴥ❛`)   (•ω•)八(◕ヮ◕)
