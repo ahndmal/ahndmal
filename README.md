@@ -13,7 +13,6 @@
   </div>
 
 
-
 ### Activities:
 つ ◕_◕༽つ   (´❛ᴥ❛`)   (•ω•)八(◕ヮ◕)
 
@@ -52,12 +51,6 @@ I'm also exploring such thinks like:
 - Unix OS
 
 <!--
-**AndriiMaliuta/AndriiMaliuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 OLD:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndriiMaliuta&show_icons=true&theme=tokyonight)
@@ -69,7 +62,7 @@ OLD:
 * 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
 * ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
-* ✨ Gitlab (mostly for Frontend) - https://gitlab.com/AndriiMaliuta
+* ✨ Gitlab - https://gitlab.com/AndriiMaliuta
 * ✨ Bitbucket - https://bitbucket.org/malandr/
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
