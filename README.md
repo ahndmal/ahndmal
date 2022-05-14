@@ -2,7 +2,7 @@
 
 <img width="60%" height="60%" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg" alt="flag">
 
-<div style="display:flex;flex-direction:row">
+<!-- <div style="display:flex;flex-direction:row">
   <img width="15%" height="15%" src="https://user-images.githubusercontent.com/36703491/163026535-adbd88b5-f541-4843-86b8-5ba80fb4ad00.png" alt="cozack_go">
 <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163550893-36d9ed4a-f05e-4cc3-8a7e-321d0eddbf20.png" alt="cozack_go">
   &nbsp 
@@ -10,7 +10,7 @@
   &nbsp
   &nbsp
   <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163713872-c13fc5ca-777d-4c48-aa20-7a432e31cf36.png" alt="cozack_go">
-  </div>
+  </div> -->
 
 
 ### Activities:
