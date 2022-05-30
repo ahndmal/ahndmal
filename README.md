@@ -24,7 +24,8 @@
 ### 🛠 &nbsp;Tech Stack (Languages)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%23A09AFF.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![JS](https://img.shields.io/badge/javascript-%4FBA8F.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=Go&logoColor=white)
 
 I'm also exploring such thinks like: 
 
