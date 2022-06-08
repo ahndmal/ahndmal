@@ -1,32 +1,40 @@
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Ukraine_%28pantone_colors%29.svg/255px-Flag_of_Ukraine_%28pantone_colors%29.svg.png" alt="ua_flag"> -->
-
 <img width="60%" height="60%" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Flag_of_Ukraine.jpg" alt="flag">
-
 <!-- <div style="display:flex;flex-direction:row">
   <img width="15%" height="15%" src="https://user-images.githubusercontent.com/36703491/163026535-adbd88b5-f541-4843-86b8-5ba80fb4ad00.png" alt="cozack_go">
 <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163550893-36d9ed4a-f05e-4cc3-8a7e-321d0eddbf20.png" alt="cozack_go">
   &nbsp 
-  &nbsp
-  &nbsp
-  &nbsp
   <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163713872-c13fc5ca-777d-4c48-aa20-7a432e31cf36.png" alt="cozack_go">
   </div> -->
-
 
 ### Activities:
 つ ◕_◕༽つ   (´❛ᴥ❛`)   (•ω•)八(◕ヮ◕)
 
 * Web development
-* CLI tools
 * Managing tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
 
 ### 🛠 &nbsp;Tech Stack (Languages)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JS](https://img.shields.io/badge/javascript-%4FBA8F.svg?style=for-the-badge&logo=javascript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=Go&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+ <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> 
+   <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+<!--   <img src="" alt="java" width="40" height="40"/> -->
+  <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-plain.svg" alt="webpack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/>
+<!--   <img src="" alt="java" width="40" height="40"/> -->
+<!--   <img src="" alt="java" width="40" height="40"/>  -->
+  
+   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  
+</p>
 
+----------------
 I'm also exploring such thinks like: 
 
 - Network:
