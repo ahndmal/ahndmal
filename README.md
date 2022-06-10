@@ -18,19 +18,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
- <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
+ <img src="https://cdn.iconscout.com/icon/free/png-256/confluence-3628704-3029929.png" alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original.svg" alt="jira" width="33" height="33"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-plain.svg" alt="java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" alt="js" width="40" height="40"/> 
    <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/raw/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
+  
   <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-<!--   <img src="" alt="java" width="40" height="40"/> -->
-  <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-plain.svg" alt="webpack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/>
 <!--   <img src="" alt="java" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/>  -->
   
-   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   
 </p>
 
