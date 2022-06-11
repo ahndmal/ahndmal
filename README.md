@@ -41,8 +41,6 @@ I'm also exploring such thinks like:
   - HTTP2
   - gRPC
   - Reactive
-- Golang
-- NodeJS / NPM/ JS Builders
 - Paketo / Buildah / Jib
 - Cloud:
   - Docker / Podman
