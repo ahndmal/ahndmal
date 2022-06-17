@@ -68,7 +68,7 @@ OLD:
 * ✨ Bitbucket - https://bitbucket.org/malandr/
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
-* CodeWars: <a href="https://www.codewars.com/users/codeFun8" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/codeFun8/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/codeFun8/micro" style="max-width: 100%;"></a>
+* CodeWars: <a href="https://www.codewars.com/users/codeFun8" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
 
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge) -->
