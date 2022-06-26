@@ -26,7 +26,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
   
   <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/>
+<!--   <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/>  -->
   
