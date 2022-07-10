@@ -68,6 +68,7 @@ OLD:
 * ✨ Bitbucket - https://bitbucket.org/malandr/
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
+* ✨ Google Devs - https://developers.google.com/profile/u/114202756637461123327
 * CodeWars: <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
 
 
