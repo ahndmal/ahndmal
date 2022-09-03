@@ -37,6 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta)
 
+<!--
 ----------------
 I'm also exploring such thinks like: 
 
@@ -52,7 +53,7 @@ I'm also exploring such thinks like:
   - Terraform / Vault / Consul
   - GCloud / AWS / Azure
 - Unix OS
-
+-->
 <!--
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 OLD:
