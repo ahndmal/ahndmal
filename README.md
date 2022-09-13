@@ -16,7 +16,7 @@
 
 ### 🛠 &nbsp;Tech Stack (Languages)
 
-[![Skills](https://skillicons.dev/icons?i=java,maven,spring,quarkus,go,js,react,docker,gcp,linux,powershell)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,maven,spring,quarkus,go,js,react,docker,gcp,linux,powershell)](https://github.com/AndriiMaliuta)
 
 <!--   <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/> -->
