@@ -25,7 +25,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta) -->
 
-![Screenshot from 2022-10-25 21-36-29](https://user-images.githubusercontent.com/36703491/197854788-c3ca63d4-56f2-4f95-8574-62bc4b6eb5cb.png)
+![Screenshot_from_2022-10-25_21-36-29-removebg-preview](https://user-images.githubusercontent.com/36703491/197855136-6bfcd7b1-2990-41d5-b50c-0a74c9cbf4f3.png)
 
 <!--
 ----------------
