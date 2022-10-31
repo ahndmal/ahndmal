@@ -23,9 +23,9 @@
 
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta)
 
-![Screenshot_from_2022-10-25_21-36-29-removebg-preview](https://user-images.githubusercontent.com/36703491/197855136-6bfcd7b1-2990-41d5-b50c-0a74c9cbf4f3.png)
+<!-- ![Screenshot_from_2022-10-25_21-36-29-removebg-preview](https://user-images.githubusercontent.com/36703491/197855136-6bfcd7b1-2990-41d5-b50c-0a74c9cbf4f3.png) -->
 
 <!--
 ----------------
