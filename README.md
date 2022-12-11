@@ -14,9 +14,11 @@
 * Managing tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
 
+<!--
 ### 🛠 &nbsp;Tech Stack (Languages)
 
 [![Skills](https://skillicons.dev/icons?i=java,js,go,react,docker,gcp,linux)](https://github.com/AndriiMaliuta)
+-->
 
 <!--   <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/> -->
