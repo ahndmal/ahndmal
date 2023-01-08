@@ -8,9 +8,6 @@
   </div> -->
 
 ### Activities:
-
-つ ◕_◕༽つ   (´❛ᴥ❛`)   (•ω•)八(◕ヮ◕)
-
 * Web development
 * Managing tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
@@ -21,7 +18,7 @@
 [![Skills](https://skillicons.dev/icons?i=java,js,go,react,docker,gcp,linux)](https://github.com/AndriiMaliuta)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndriiMaliuta&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndriiMaliuta&theme=github)
