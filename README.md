@@ -15,16 +15,16 @@
 <!--
 ### 🛠 &nbsp;Tech Stack (Languages)
 
-[![Skills](https://skillicons.dev/icons?i=java,js,go,react,docker,gcp,linux)](https://github.com/AndriiMaliuta)
+[![Skills](https://skillicons.dev/icons?i=java,js,go,react,docker,gcp,linux)](https://github.com/ahndmal)
 -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndriiMaliuta&layout=compact&langs_count=12&theme=onedark)](https://github.com/AndriiMaliuta) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahndmal&layout=compact&langs_count=12&theme=onedark)](https://github.com/ahndmal)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndriiMaliuta&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndriiMaliuta&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AndriiMaliuta&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndriiMaliuta&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndriiMaliuta&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahndmal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahndmal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahndmal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahndmal&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahndmal&theme=github)
 
 <!--   <img src="https://github.com/devicons/devicon/raw/master/icons/r/r-plain.svg" alt="r" width="40" height="40"/> -->
 <!--   <img src="" alt="java" width="40" height="40"/> -->
