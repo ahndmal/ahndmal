@@ -7,6 +7,8 @@
   <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163713872-c13fc5ca-777d-4c48-aa20-7a432e31cf36.png" alt="cozack_go">
   </div> -->
 
+https://registry.jsonresume.org/ahndmal
+
 ### Activities:
 * Web development
 * Managing tools for Atlassian Confluence + JIRA
