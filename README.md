@@ -20,7 +20,7 @@ https://registry.jsonresume.org/ahndmal
 [![Skills](https://skillicons.dev/icons?i=java,js,go,react,docker,gcp,linux)](https://github.com/ahndmal)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahndmal&layout=compact&langs_count=12&theme=onedark)](https://github.com/ahndmal)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahndmal&layout=compact&langs_count=12&theme=onedark)](https://github.com/ahndmal) -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahndmal&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahndmal&theme=github)
