@@ -1,12 +1,5 @@
 [![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
 
-<!-- <div style="display:flex;flex-direction:row">
-  <img width="20%" height="20%" src="https://user-images.githubusercontent.com/36703491/163026535-adbd88b5-f541-4843-86b8-5ba80fb4ad00.png" alt="cozack_go">
-<img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163550893-36d9ed4a-f05e-4cc3-8a7e-321d0eddbf20.png" alt="cozack_go">
-  &nbsp 
-  <img width="11%" height="11%" src="https://user-images.githubusercontent.com/36703491/163713872-c13fc5ca-777d-4c48-aa20-7a432e31cf36.png" alt="cozack_go">
-  </div> -->
-
 https://registry.jsonresume.org/ahndmal
 
 ### Activities:
@@ -22,7 +15,7 @@ https://registry.jsonresume.org/ahndmal
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahndmal&layout=compact&langs_count=12&theme=onedark)](https://github.com/ahndmal) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahndmal&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahndmal&theme=github) -->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahndmal&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahndmal&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahndmal&theme=github)
@@ -64,6 +57,8 @@ OLD:
 * ✨ Linktree - https://linktr.ee/andmal
 * 💬 Twitter: https://twitter.com/andrii_maliuta
 * CodeWars: <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
+
+![image](https://github.com/ahndmal/ahndmal/assets/36703491/05b27395-1028-4cad-bf45-f026de9d09a0)
 
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge) -->
