@@ -25,23 +25,7 @@ https://registry.jsonresume.org/ahndmal
 <!--   <img src="" alt="java" width="40" height="40"/> -->
 <!-- ![Screenshot_from_2022-10-25_21-36-29-removebg-preview](https://user-images.githubusercontent.com/36703491/197855136-6bfcd7b1-2990-41d5-b50c-0a74c9cbf4f3.png) -->
 
-<!--
-----------------
-Also exploring such thinks like: 
 
-- Network:
-  - HTTP2
-  - gRPC
-  - Reactive
-- Paketo / Buildah / Jib
-- Cloud:
-  - Docker / Podman
-  - K8s / KNative
-  - OpenShift
-  - Terraform / Vault / Consul
-  - GCloud / AWS / Azure
-- Unix OS
--->
 <!--
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 OLD:
@@ -50,20 +34,15 @@ OLD:
 -->
 
 ## Contacts
-
 * 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
 * ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
 * ✨ Linktree - https://linktr.ee/andmal
-* 💬 Twitter: https://twitter.com/andrii_maliuta
 * CodeWars: <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
-
-![image](https://github.com/ahndmal/ahndmal/assets/36703491/05b27395-1028-4cad-bf45-f026de9d09a0)
 
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge) -->
 <!-- [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta) -->
-
 
 <!-- ## GitHub Stats
 
