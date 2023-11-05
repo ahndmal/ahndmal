@@ -36,8 +36,9 @@ OLD:
 ## Contacts
 * 📫 How to reach: quadr988@gmail.com
 * 👱‍♂️ Pronouns: he/him
-* ✨ LinkedIn - https://www.linkedin.com/in/andrii-maliuta-322a488a
-* ✨ Linktree - https://linktr.ee/andmal
+* ✨ LinkedIn: https://www.linkedin.com/in/andrii-maliuta-322a488a
+* ✨ Linktree: https://linktr.ee/andmal
+* dev.to: https://dev.to/andriimaliuta
 * CodeWars: <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
 
 
