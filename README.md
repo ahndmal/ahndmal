@@ -35,7 +35,7 @@ OLD:
 
 ## Contacts
 * 📫 How to reach: quadr988@gmail.com
-* 👱‍♂️ Pronouns: he/him
+* Google Developers profile: https://www.cloudskillsboost.google/public_profiles/b0c0c449-8ae4-40a5-a46b-56390ac65cd6
 * ✨ LinkedIn: https://www.linkedin.com/in/andrii-maliuta-322a488a
 * ✨ Linktree: https://linktr.ee/andmal
 * dev.to: https://dev.to/andriimaliuta
