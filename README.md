@@ -39,9 +39,10 @@ OLD:
 * ✨ LinkedIn: https://www.linkedin.com/in/andrii-maliuta-322a488a
 * ✨ Linktree: https://linktr.ee/andmal
 * dev.to: https://dev.to/andriimaliuta
-* CodeWars: <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a>
+* CodeWars: <img height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/small?theme=light" alt="" >
 
 
+<!-- <a href="https://www.codewars.com/users/malandr" rel="nofollow"><img class="hidden dark:inline-block" height="30%" width="30%" src="https://www.codewars.com/users/malandr/badges/large?logo=false" alt="" data-canonical-src="https://www.codewars.com/users/malandr/micro" style="max-width: 100%;"></a> -->
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=AndriiMaliuta.visitor-badge) -->
 <!-- [![Github](https://img.shields.io/github/followers/AndriiMaliuta?label=Follow&style=social)](https://github.com/AndriiMaliuta) -->
 
