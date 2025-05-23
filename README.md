@@ -7,6 +7,14 @@ https://registry.jsonresume.org/ahndmal
 * Managing tools for Atlassian Confluence + JIRA
 * Automating content migration for web wiki systems
 
+### My Tools
+* Primary Languages: Java, Groovy
+* Secondary Languages: Go, JavaScript, Kotlin
+* IDEs: Vim, Helix, Emacs
+* Web Frameworks: Spring, Quarkus, React
+* Areas of Interest: Web APIs, Game modding, CLI dev tooling, Graphics manipulation
+* Technologies of Interest: Network, Linux, FP
+
 <!--
 ### 🛠 &nbsp;Tech Stack (Languages)
 
