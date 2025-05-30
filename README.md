@@ -10,10 +10,9 @@ https://registry.jsonresume.org/ahndmal
 ### My Tools
 * Primary Languages: Java, Groovy
 * Secondary Languages: Go, JavaScript, Kotlin
-* IDEs: Vim, Helix, Emacs
+* IDEs: Helix, Vim, Emacs
 * Web Frameworks: Spring, Quarkus, React
-* Areas of Interest: Web APIs, Game modding, CLI dev tooling, Graphics manipulation
-* Technologies of Interest: Network, Linux, FP
+* Areas of Interest: Web APIs, WASM, CLI dev tooling
 
 <!--
 ### 🛠 &nbsp;Tech Stack (Languages)
